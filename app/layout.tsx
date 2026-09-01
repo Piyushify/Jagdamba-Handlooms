@@ -6,8 +6,8 @@ import Footer from "@/components/Footer";
 import { CartProvider } from "@/components/CartProvider";
 
 export const metadata: Metadata = {
-  title: "MINIMA — Modern Store",
-  description: "A modern Next.js e-commerce website",
+  title: "Jagdamba Handlooms — Traditional Store",
+  description: "A modern Next.js e-commerce website for Traditional wears",
 };
 
 export default function RootLayout({

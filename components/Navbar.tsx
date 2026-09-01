@@ -16,7 +16,7 @@ export default function Navbar() {
     <header className="border-b border-zinc-200">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
         <Link href="/" className="text-xl font-bold tracking-tight">
-          MINIMA
+          Jagdamba Handlooms
         </Link>
 
         <div className="hidden items-center gap-8 md:flex">

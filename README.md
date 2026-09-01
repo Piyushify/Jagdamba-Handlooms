@@ -1,2 +1,2 @@
 # jagdamba-handlooms
-The ecommerce store
+The e-commerce store for Traditional wears.
